@@ -1,0 +1,8 @@
+emisor;receptor;contenido;fecha;producto
+carla@gmail.com;esther@gmail.com;Hola! Me gusta tu blusa, �que talla es?;2025-05-08T18:57:35.488955600;blusa
+esther@gmail.com;carla@gmail.com;Hola, es una talla m;2025-05-08T18:57:35.488955600;blusa
+carla@gmail.com;esther@gmail.com;Vale, muchas gracias;2025-05-08T18:57:35.488955600;blusa
+gonzalo@gmail.com;pablo@gmail.com;Podr�as hacer una rebaja del abrigo?;2025-05-08T18:57:35.488955600;abrigo
+pablo@gmail.com;gonzalo@gmail.com;Si, ahora cambio el precio;2025-05-08T18:57:35.488955600;abrigo
+pablo@gmail.com;gonzalo@gmail.com;Ya esta, no puedo rebajarlo m�s, est� en buen estado;2025-05-08T18:57:35.488955600;abrigo
+gonzalo@gmail.com;pablo@gmail.com;Vale gracias, me lo pensar�;2025-05-08T18:57:35.489956500;abrigo
